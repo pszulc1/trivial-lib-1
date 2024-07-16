@@ -1,0 +1,3 @@
+{
+    new():: { 'a trivial': 'library' }
+}
